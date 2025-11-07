@@ -1,0 +1,36 @@
+img {
+    max-width: 250px;
+}
+
+div {
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pequeno {
+    max-width: 50px;
+}
+
+.medio {
+    max-width: 150px;
+}
+
+.grande {
+    max-width: 250px;
+}
+
+button {
+    width: 100px;
+    height: 40px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.undoRedo {
+    font-size: 25pt;
+    background-color: cadetblue;
+}
