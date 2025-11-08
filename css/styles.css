@@ -34,3 +34,7 @@ button:hover {
     font-size: 25pt;
     background-color: cadetblue;
 }
+
+#btUndoColor, #btRedoColor {
+    background-color: lightcoral;
+}
